@@ -17,4 +17,17 @@ Set variables A, B, C, D, E, F, G:
 Other:
 [< (log)/> (input)/+/-/& (multiply)/( (square)/) (cube)/% (type)][input]!
 
+Commands are:
+
+< (log), > (input), + (add), - (minus), & (multiply), ( (square), ) (cube) and % (type - NUM or WRD).
+
+=======================================
+
+Setup.
+=======================================
+
+To setup, run
+
+make -fbuild.mk
+
 =======================================
