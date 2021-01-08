@@ -1,0 +1,11 @@
+# https://editorconfig.org/
+# For Diamond.
+
+root = true
+
+# For all files
+[*]
+end_of_line = lf
+charset = utf-8
+indent_size = 4
+indent_style = space
