@@ -1,0 +1,8 @@
+# No this
+*/.DS_Store
+
+# No that
+.DS_Store
+
+# No that too
+test/__pycache__/
